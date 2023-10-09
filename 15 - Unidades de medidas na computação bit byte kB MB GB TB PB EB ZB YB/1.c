@@ -1,0 +1,1 @@
+// nessa aula foi dito sobre unidades de medidas de memoria
